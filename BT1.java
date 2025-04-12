@@ -1,6 +1,6 @@
 public class BT1 {
     public static void main(String[] args) {
-        int a = 10; // bạn có thể thay bằng bất kỳ số nào
+        int a = 10; 
         int b = 3;
 
         // Tính toán
